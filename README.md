@@ -1,2 +1,1 @@
-# MockUp
-Created with CodeSandbox
+## MockUp
